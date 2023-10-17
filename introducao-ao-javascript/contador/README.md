@@ -1,12 +1,9 @@
 # Contador
-Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
+Neste projeto apliquei os conhecimentos adquiridos da Aula: Criando um contador.
 
-## Dicas
-Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
+## Mudanças
 
-1. Tente implementar os eventos usando o método `addEventListener`. 
-2. Crie condicionais que desabilitam o botão de incrementar ou decrementar quando `count` chegar a um determinado valor *(ex.: 0 <= count =< 10)*.
-3. Mude a cor do texto em `CURRENT_NUMBER` para vermelho quando o número for negativo.
+1. Adição de margens.
+2. Otimização no layout Flexbox.
+3. Mudanças estéticas no Css.
 
-## Bons estudos!
-Não esqueça de publicar a sua versão do projeto no seu Github também! :smile:
